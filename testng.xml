@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="testlayer.CreateAccount_TestCases"/>
+     <class name="testlayer.Guest_User"/>
+      <class name="testlayer.Your_Order_Test"/>
+      <class name="testlayer.Your_Addresses"/>
+      <class name="testlayer.YourAccountModule"/>
+      <class name="testlayer.Your_Payment_Test"/>
+      <class name="testlayer.Signin_ExistingCx"/>
+      <class name="testlayer.SRP_search"/>
+      <class name="testlayer.Shopping_cart_test"/>
+      <class name="testlayer.Sorting_feature"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

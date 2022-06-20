@@ -1,0 +1,29 @@
+Browser=Chrome
+Url=https://www.amazon.ca/
+
+Excel_path=C:\Users\Preet\eclipse-workspace\Amazon_Website\src\test\java\excel_data_driven\AMAZON.xlsx
+
+-------------------A-Create account--------------------------
+Name_error=Enter your name
+Mobile_email_field_error=Enter your e-mail address or mobile phone number
+Verify_button_mob=Verify mobile number
+Verify_button_email=Verify email
+Pass_error=Minimum 6 characters required
+Pass_again_no_match=Passwords do not match
+Pass_again_no_Type=Type your password again
+Auth_puzzle=Authentication required
+Amazon_mob_auth=Amazon Phone Verification
+---------------------B-YourAccountModule---------------
+username=c0696193@mylambton.ca
+password=Mi4i9074
+---------------------------------------------------------
+              Guest-User // Free-Shipping
+---------------------------------------------------------
+ Guest_item=‎B0053ZPBGA
+ Item_less_than_35=1450845800
+ item_more_than_35=‎B0053ZPBGA        
+ 
+ ----------------------------------------------------------
+             Shopping-Cart
+-----------------------------------------------------------
+item=‎ B00T5T85GS    

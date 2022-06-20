@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-19T22:09:57 EDT" name="Default suite" finished-at="2022-06-19T22:10:30 EDT" duration-ms="32660">
+    <groups>
+    </groups>
+    <test started-at="2022-06-19T22:09:57 EDT" name="Default test" finished-at="2022-06-19T22:10:30 EDT" duration-ms="32660">
+      <class name="testlayer.Shopping_cart_test">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:testlayer.Shopping_cart_test@3e92efc3]" started-at="2022-06-19T22:09:57 EDT" name="open_browser" finished-at="2022-06-19T22:10:09 EDT" duration-ms="11445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="product_info_displayed()[pri:0, instance:testlayer.Shopping_cart_test@3e92efc3]" started-at="2022-06-19T22:10:09 EDT" name="product_info_displayed" finished-at="2022-06-19T22:10:30 EDT" duration-ms="21188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_info_displayed -->
+      </class> <!-- testlayer.Shopping_cart_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
